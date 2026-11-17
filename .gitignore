@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Security ignore rules
+.env
+.env.*
+*.pem
+*.key
+
